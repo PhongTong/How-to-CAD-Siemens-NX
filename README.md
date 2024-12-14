@@ -30,7 +30,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 2. [ Session 2 ](#S2)
 3. [ Session 3 ](#S3)
 4. [ Session 4 ](#S4)
-5. [ Session 4.5 ](#S4.5)
+5. [ Session 4.5 ](#S4half)
 6. [ Session 5 ](#S5)
 7. [ Session 6 ](#S6)
 
@@ -113,7 +113,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ([ back to top ](#back_to_top))
 
 ---
-<a name="S5"></a>
+<a name="S4half"></a>
 ### BONUS Session 4.5: Let's have a 3D-modeled Coke in Space!
 (Wednesday, July 17)
 
