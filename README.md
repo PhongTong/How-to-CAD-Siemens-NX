@@ -114,7 +114,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ---
 <a name="S4half"></a>
-### BONUS Session 4.5: Let's have a 3D-modeled Coke in Space!
+### (BONUS) Session 4.5: Let's have a 3D-modeled Coke in Space!
 (online only)
 
 **Objective:** In this session, we’ll revise all of our previously learned commands (+ the useful wrap), to make sure we know how to properly use all of them. Session 4.5’s goals include: 
