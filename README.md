@@ -37,7 +37,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ---
 <a name="S1"></a>
 ### Session 1: Introduction to Siemens NX!
-(Wednesday, June 5)
+(Tuesday, January 7)
 
 **Objective:** In this session, we’ll get ourselves acquainted with the NX workspace, and start learning some of the most used tools. Session 1’s goals include: 
 * Creating sketches (using basic shapes, construction lines, smart-dimensioning, sketch relationships) and understanding planes.
@@ -59,7 +59,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ---
 <a name="S2"></a>
 ### Session 2: Splines, Sketch Pictures and logos!
-(Wednesday, June 12)
+(Thursday, January 9)
 
 **Objective:** In this session, we’ll continue exploring some of the most powerful NX tools. Session 2’s goals include:
 * Learning how to use the spline tool.
@@ -78,7 +78,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ---
 <a name="S3"></a>
 ### Session 3: All about symmetry, patterns and planes!
-(Tuesday, June 18)
+(Tuesday, January 14)
 
 **Objective:** In this session, we’ll focus our attention to symmetry, patterns and planes, and how we can leverage certain tools to simplify the design process. Session 3’s goals include: 
 * Understanding how to create a sketch for a revolve.
@@ -96,7 +96,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ---
 <a name="S4"></a>
 ### Session 4: Sweeping through the courts!
-(Wednesday, June 26)
+(Thursday, January 16)
 
 **Objective:** In this session, we’ll explore two very powerful NX tools, loft and sweep. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
 * Learning how to use the lofting and sweep command.
@@ -115,7 +115,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ---
 <a name="S4half"></a>
 ### BONUS Session 4.5: Let's have a 3D-modeled Coke in Space!
-(Wednesday, July 17)
+(online only)
 
 **Objective:** In this session, we’ll revise all of our previously learned commands (+ the useful wrap), to make sure we know how to properly use all of them. Session 4.5’s goals include: 
 * Revising some of the previously learned commands, including loft, revolve, sweep, plane creations, patterns, filleting, and material properties.
@@ -134,7 +134,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ---
 <a name="S5"></a>
 ### Session 5: Living in a world made from plastic bricks!
-(Wednesday, July 24)
+(Tuesday, January 21)
 
 **Objective:** In this session, we’ll move towards one of the most powerful features within CAD parametric softwares, which is that of making assemblies! Session 5’s goals include: 
 * Learning how to make an assembly of multiple parts.
@@ -156,7 +156,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ---
 <a name="S6"></a>
 ### Session 6: Variable Tables and Equations!
-(Wednesday, July 24)
+(Thursday, January 23)
 
 **Objective:** In this session, we'll investigate two often underappreciated yet extremely useful tools, variable tables and equations. These tools allow the user to create various configurations of the same model, depending on specific needs. Session 6’s goals include: 
 * Changing names of sketches an features under the feature tree.
