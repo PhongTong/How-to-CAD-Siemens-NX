@@ -87,7 +87,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * An MIT [Angry Beaver](https://intramurals.mit.edu/wp-content/uploads/sites/2/2019/05/intramurals-angry-beaver-1-1.png) banner.
 * A keychain of your favorite airline. 
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=i5wfB-FThsY.
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%202) folder.
 
