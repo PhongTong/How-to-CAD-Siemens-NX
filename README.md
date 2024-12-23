@@ -50,7 +50,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A standard six-sided dice.
 * A Nokia [8210](https://upload.wikimedia.org/wikipedia/commons/d/d2/Nokia_8210.jpg) phone.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=Dj955OLELNY.
 
 **Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%201) folder.
 
