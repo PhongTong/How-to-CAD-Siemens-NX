@@ -54,6 +54,24 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%201) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%201/Dice.png" width="500"> 
+
+**Figure:** _A Colorful Dice_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%201/Dice_V2.png" width="500"> 
+
+**Figure:** _Another version of the Colorful Dice_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%201/Nokia%208210.png" width="500"> 
+
+**Figure:** _An attempt at a rip-off of a Nokia 8210 phone_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
@@ -72,6 +90,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Recordings:** To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%202) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%202/Angry%20Beaver.png" width="500"> 
+
+**Figure:** _An MIT Angry Beaver plaque_.
+</p>
 
 ([ back to top ](#back_to_top))
 
