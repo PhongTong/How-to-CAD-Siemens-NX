@@ -97,6 +97,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _An MIT Angry Beaver plaque_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%202/Air%20France%20Logo.png" width="500"> 
+
+**Figure:** _Air France's [Hippocame Ailé](https://travelupdate.com/air-france-hippocampe-aile/) (or Winged Seahorse) keychain_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%202/Emirates%20%20Logo.png" width="500"> 
+
+**Figure:** _Emirates' Arabic/Latin Scrip keychain_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
@@ -116,6 +128,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Recordings:** To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%203) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%203/Fidget.png" width="500"> 
+
+**Figure:** _A fun-looking bike tire-inspired fidget spiiner_!
+</p>
 
 ---
 <a name="S4"></a>
