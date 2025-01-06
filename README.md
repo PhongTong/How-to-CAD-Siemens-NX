@@ -123,7 +123,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Activity:** Using the tools learned on Session 3, we’ll design a variety of items, including:
 * A fidget spinner!
-* A Chinese [pagoda](https://chinese-temple.com/cdn/shop/articles/Importance_of_the_Pagoda_in_Chinese_Culture_1200x1200.jpg?v=1624882205).
+* A Chinese [pagoda](https://i.pinimg.com/originals/30/f0/1d/30f01de48bde58a4acbf565a924a7d35.jpg).
 
 **Session Recordings:** To be posted.
 
@@ -132,7 +132,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%203/Fidget.png" width="500"> 
 
-**Figure:** _A fun-looking bike tire-inspired fidget spiiner_!
+**Figure:** _A bike-tire-inspired fidget spinner_!
 </p>
 
 ---
