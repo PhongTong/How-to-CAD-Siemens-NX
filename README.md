@@ -213,3 +213,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%206) folder.
 
 ([ back to top ](#back_to_top))
+
+## Enrollment Statistics
+
+How to CAD Almost Anything: MIT IAP 2025 saw a total of 118 students enrolled, hailing from 15 MIT departments: 1 (1.7%), 2 (20.3%), 3 (1.7%), 4 (1.7%), 5 (0.8%), 6 (15.3%), 8 (1.7%), 10 (1.7%), 11 (0.8%), 14 (0.8%), 16 (5.9%), 18 (4.2%), 22 (2.5%), MAS (5.1%), MBA (2.5%) and N/A (33.1%).
