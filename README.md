@@ -72,6 +72,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _An attempt at a rip-off of a Nokia 8210 phone_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%201/Drum.png" width="500"> 
+
+**Figure:** _In-person session: A drum_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
