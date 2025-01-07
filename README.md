@@ -133,12 +133,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** https://www.youtube.com/watch?v=r_iobVvWF1o.
 
-**Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%203) folder.
+**Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%203) folder. The pagoda file is very heavy, so it is instead available [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/EZVmS16mcnxKj-xJz3ybGX4BNpn3gLuoPA0vhjzA3FP_SQ?e=IPVVdh).
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%203/Fidget.png" width="500"> 
 
 **Figure:** _A bike-tire-inspired fidget spinner_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%203/Fidget.png" width="500"> 
+
+**Figure:** _An attempt at the [Iron Pagoda](https://stampaday.wordpress.com/2019/02/22/the-iron-pagoda-of-kaifeng/)_!
 </p>
 
 ---
