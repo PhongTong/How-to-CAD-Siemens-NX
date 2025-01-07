@@ -125,7 +125,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A fidget spinner!
 * A Chinese [pagoda](https://i.pinimg.com/originals/30/f0/1d/30f01de48bde58a4acbf565a924a7d35.jpg).
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=r_iobVvWF1o.
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%203) folder.
 
