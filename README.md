@@ -142,7 +142,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 </p>
 
 <p align="left">
-<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%203/Fidget.png" width="500"> 
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%203/Pagoda.png" width="500"> 
 
 **Figure:** _An attempt at the [Iron Pagoda](https://stampaday.wordpress.com/2019/02/22/the-iron-pagoda-of-kaifeng/)_!
 </p>
