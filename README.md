@@ -164,6 +164,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%204) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%204/Banana%20Model.png" width="500"> 
+
+**Figure:** _The Siemens NX Banana (in honor of the MIT Banana lounge)_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
