@@ -50,7 +50,9 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A standard six-sided dice.
 * A Nokia [8210](https://upload.wikimedia.org/wikipedia/commons/d/d2/Nokia_8210.jpg) phone.
 
-**Session Recordings:** https://www.youtube.com/watch?v=Dj955OLELNY.
+**Session Recordings:** 
+* Asynchronous: https://www.youtube.com/watch?v=Dj955OLELNY.
+* In-person: https://www.youtube.com/watch?v=hDyiR-cpcYc.
 
 **Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%201) folder.
 
@@ -93,7 +95,9 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * An MIT [Angry Beaver](https://intramurals.mit.edu/wp-content/uploads/sites/2/2019/05/intramurals-angry-beaver-1-1.png) banner.
 * A keychain of your favorite airline. 
 
-**Session Recordings:** https://www.youtube.com/watch?v=i5wfB-FThsY.
+**Session Recordings:** 
+* Asynchronous: https://www.youtube.com/watch?v=i5wfB-FThsY.
+* In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%202) folder.
 
@@ -131,7 +135,9 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A fidget spinner!
 * A Chinese [pagoda](https://i.pinimg.com/originals/30/f0/1d/30f01de48bde58a4acbf565a924a7d35.jpg).
 
-**Session Recordings:** https://www.youtube.com/watch?v=r_iobVvWF1o.
+**Session Recordings:** 
+* Asynchronous: https://www.youtube.com/watch?v=r_iobVvWF1o.
+* In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%203) folder. The pagoda file is very heavy, so it is instead available [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/EZVmS16mcnxKj-xJz3ybGX4BNpn3gLuoPA0vhjzA3FP_SQ?e=IPVVdh).
 
@@ -160,7 +166,9 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A HEAD [paddle tennis](https://padelusa.com/cdn/shop/files/Head-Extreme_Motion_Padel_Racket_PadelUSA_store_1.webp?v=1711743078)racket.
 * A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 
-**Session Recordings:** To be posted.
+**Session Recordings:** 
+* Asynchronous: To be posted.
+* In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%204) folder.
 
@@ -185,7 +193,9 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A Diet Coke [222ml can](https://i5.walmartimages.com/asr/4e648786-e141-4a04-a612-2a4a42c0e423.49b830cbf38f440b0807099beb68fc07.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF) (with labels included).
 * An MIT [tech](https://sailing.mit.edu/future/g6/in_water.jpg) dinghy. 
 
-**Session Recordings:** To be posted.
+**Session Recordings:** 
+* Asynchronous: To be posted.
+* In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%204) folder.
 
@@ -207,7 +217,9 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A simple [LEGO airplane](https://media.istockphoto.com/id/1352000895/vector/airplane-made-by-blocks-toy-building-block-bricks-for-children-vector-isometric-illustration.jpg?s=612x612&w=0&k=20&c=2yXIL9SeyGRjCLnDtrQr_nU5dfOrJCsVYyTq5LO8QW0=) assembly.
 * An engineering drawing of the airplane assembly and one of the LEGO bricks.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** 
+* Asynchronous: To be posted.
+* In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%205) folder.
 
@@ -226,7 +238,9 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Activity:** Using the tools learned on Session 6, we’ll design a variety of items, including:
 * A wooden [toy train](https://m.media-amazon.com/images/I/71jmh8IR6jL.jpg) with tracks (with different configurations for the track lengths and the trains)!
 
-**Session Recordings:** To be posted.
+**Session Recordings:** 
+* Asynchronous: To be posted.
+* In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%206) folder.
 
