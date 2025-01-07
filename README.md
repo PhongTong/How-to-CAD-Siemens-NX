@@ -75,7 +75,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%201/Drum.png" width="500"> 
 
-**Figure:** _In-person session: A drum_.
+**Figure:** _(In-person Session 1) A Drum_.
 </p>
 
 ([ back to top ](#back_to_top))
