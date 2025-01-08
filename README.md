@@ -167,7 +167,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://www.youtube.com/watch?v=rkeJApd9qSY.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%204) folder.
