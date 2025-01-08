@@ -163,7 +163,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
 **Session Activity:** Using the tools learned on Session 4, we’ll design a variety of items, including:
-* A HEAD [paddle tennis](https://padelusa.com/cdn/shop/files/Head-Extreme_Motion_Padel_Racket_PadelUSA_store_1.webp?v=1711743078)racket.
+* A HEAD [Paddle Tennis](https://padelusa.com/cdn/shop/files/Head-Extreme_Motion_Padel_Racket_PadelUSA_store_1.webp?v=1711743078) racket.
 * A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 
 **Session Recordings:** 
@@ -176,6 +176,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%204/Banana%20Model.png" width="500"> 
 
 **Figure:** _The Siemens NX Banana (in honor of the MIT Banana lounge)_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%204/Head%20Paddle%20Racket.png" width="500"> 
+
+**Figure:** _A HEAD Paddle Tennis racket_!
 </p>
 
 ([ back to top ](#back_to_top))
