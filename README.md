@@ -236,7 +236,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to create an engineering drawing of a part and assembly (including exploded views).
 
 **Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
-* A standard [2x4 LEGO brick](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as a 1x1, 2x1, 2x2, and 2x3).
+* A standard [2x4 LEGO brick](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as a 2x1, 2x1, 2x2, and 2x3 bricks; 2x3, 2x4, 2x6 and 2x8 plates; 2x2 and 2x3 slanted bricks).
 * A standard [2x4 LEGO plate](https://www.briquestore.fr/28179-home_default/lego-6286500-plate-2x4-nougat.jpg).
 * A simple [LEGO airplane](https://media.istockphoto.com/id/1352000895/vector/airplane-made-by-blocks-toy-building-block-bricks-for-children-vector-isometric-illustration.jpg?s=612x612&w=0&k=20&c=2yXIL9SeyGRjCLnDtrQr_nU5dfOrJCsVYyTq5LO8QW0=) assembly.
 * An engineering drawing of the airplane assembly and one of the LEGO bricks.
@@ -246,6 +246,24 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%205) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%205/LEGO%202x4%20Brick.png" width="500"> 
+
+**Figure:** _A standard LEGO 2x4 brick_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%205/LEGO%202x4%20Brick%20Drawing.png" width="500"> 
+
+**Figure:** _Engineering Drawing of a standard LEGO 2x4 brick_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%205/Lego%20Airplane.png" width="500"> 
+
+**Figure:** _LEGO Airplane_!
+</p>
 
 ([ back to top ](#back_to_top))
 
