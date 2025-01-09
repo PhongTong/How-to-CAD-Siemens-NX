@@ -164,8 +164,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 4: Sweeping through the courts!
 (Thursday, January 16)
 
-**Objective:** In this session, we’ll explore two very powerful NX tools, loft and sweep. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
-* Learning how to use the lofting and sweep command.
+**Objective:** In this session, we’ll explore two very powerful NX tools, through curves and through curves mesh. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
+* Learning how to the through curves command.
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
 **Session Activity:** Using the tools learned on Session 4, we’ll design a variety of items, including:
