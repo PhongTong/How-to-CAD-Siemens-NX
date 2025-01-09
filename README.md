@@ -217,6 +217,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A 222ml Diet Coke Can model_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%204/Tech%20Dinghy.png" width="500"> 
+
+**Figure:** _A Siemens NX attempt at an MIT Tech Dinghy_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
