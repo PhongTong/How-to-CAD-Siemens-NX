@@ -119,6 +119,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _Emirates' Arabic/Latin Scrip keychain_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%202/Argentine%20Peso.png" width="500"> 
+
+**Figure:** _(In-person Session 2) A 1976 Argentine Peso model_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
