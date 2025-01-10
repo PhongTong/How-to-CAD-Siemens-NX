@@ -231,7 +231,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Objective:** In this session, we’ll move towards one of the most powerful features within CAD parametric softwares, which is that of making assemblies! Session 5’s goals include: 
 * Learning how to make an assembly of multiple parts.
-* Learning how to make an exploded view of an assembly and subsequentially animating it.
+* Learning how to make an exploded view of an assembly.
 * Learning how to create an engineering drawing of a part and assembly (including exploded views).
 
 **Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
