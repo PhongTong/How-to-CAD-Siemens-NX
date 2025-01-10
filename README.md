@@ -265,13 +265,13 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 </p>
 
 <p align="left">
-<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%205/LEGO%20Airplane%20Drawing%201.jpg" width="500"> 
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%205/LEGO%20Airplane%20Drawing%201.png" width="500"> 
 
 **Figure:** _Engineering Drawing of the LEGO Airplane - Exploded View_.
 </p>
 
 <p align="left">
-<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%205/LEGO%20Airplane%20Drawing%202.jpg" width="500"> 
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%205/LEGO%20Airplane%20Drawing%202.png" width="500"> 
 
 **Figure:** _Engineering Drawing of the LEGO Airplane - General Dimensions_.
 </p>
