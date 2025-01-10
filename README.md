@@ -206,8 +206,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * An MIT [tech](https://sailing.mit.edu/future/g6/in_water.jpg) dinghy. 
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
-* In-person: To be posted.
+* Asynchronous: https://www.youtube.com/watch?v=xtA76wnzQiU.
 
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%204) folder.
 
