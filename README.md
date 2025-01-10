@@ -241,7 +241,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * An engineering drawing of the airplane assembly and one of the LEGO bricks.
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://www.youtube.com/watch?v=p4DvSi1wqJs.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%205) folder.
