@@ -283,13 +283,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 6: Variable Tables and Equations!
 (Thursday, January 23)
 
-**Objective:** In this session, we'll investigate two often underappreciated yet extremely useful tools, variable tables and equations. These tools allow the user to create various configurations of the same model, depending on specific needs. Session 6’s goals include: 
-* Changing names of sketches an features under the feature tree.
-* Learning how to create equations and incorporate them into a design table.
+**Objective:** In this session, we'll investigate two often underappreciated yet extremely useful tools, parameter tables and equations/expressions. These tools allow the user to create various configurations of the same model, depending on specific needs. Session 6’s goals include: 
+* Learning how to create equations and incorporate them into a parameter table.
 * Creating configurations of the same model.
 
 **Session Activity:** Using the tools learned on Session 6, we’ll design a variety of items, including:
-* A wooden [toy train](https://m.media-amazon.com/images/I/71jmh8IR6jL.jpg) with tracks (with different configurations for the track lengths and the trains)!
+* A wooden [toy train](https://m.media-amazon.com/images/I/71jmh8IR6jL.jpg) with tracks (with different configurations for the trains and wagons)!
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
