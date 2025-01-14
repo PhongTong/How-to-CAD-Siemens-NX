@@ -291,7 +291,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A wooden [toy train](https://m.media-amazon.com/images/I/71jmh8IR6jL.jpg) with tracks (with different configurations for the trains and wagons)!
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://www.youtube.com/watch?v=s7Ew4NbwAo4.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%206) folder.
