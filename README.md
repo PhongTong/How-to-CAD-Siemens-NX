@@ -300,13 +300,13 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%206/LEGO%20Brick%20Configurations.png" width="500"> 
 
-**Figure:** _(Warm-up) Multiple Configurations of a LEGO Brick/Plate_.
+**Figure:** _(Warm-up) Multiple configurations of a LEGO Brick/Plate_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%206/Train%20Configurations.png" width="500"> 
 
-**Figure:** _Multiple Configurations of the MIT Locomotive, Coal Wagon and Passenger Wagon_!
+**Figure:** _Multiple configurations of the MIT Locomotive, Coal Wagon and Passenger Wagon_!
 </p>
 
 <p align="left">
