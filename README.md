@@ -297,6 +297,36 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%206) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%206/LEGO%20Brick%20Configurations.png" width="500"> 
+
+**Figure:** _(Warm-up) Multiple Configurations of a LEGO Brick/Plate_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%206/Train%20Configurations.png" width="500"> 
+
+**Figure:** _Multiple Configurations of the MIT Locomotive, Coal Wagon and Passenger Wagon_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%206/Train%20Assembly.png" width="500"> 
+
+**Figure:** _Sample Locomotive/Coal Wagon/Passenger Wagon assembly_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%206/Track%20Parts.png" width="500"> 
+
+**Figure:** _Track Parts_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%206/Track%20Layout.png" width="500"> 
+
+**Figure:** _Track Layout with the sample Locomotive/Coal Wagon/Passenger Wagon assembly_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ## Enrollment Statistics
