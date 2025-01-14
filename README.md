@@ -159,6 +159,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _An attempt at the [Iron Pagoda](https://stampaday.wordpress.com/2019/02/22/the-iron-pagoda-of-kaifeng/)_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%203/Windmill.png" width="500"> 
+
+**Figure:** _(In-person Session 3) A simple (violet) windmill design_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%203/Wild%20Goose%20Pagoda.png" width="500"> 
+
+**Figure:** _(In-person Session 3) An attempt at the [Giant Wild Goose](https://upload.wikimedia.org/wikipedia/commons/1/13/Giant_Wild_Goose_Pagoda.jpg) Pagoda_.
+</p>
+
 ---
 <a name="S4"></a>
 ### Session 4: Sweeping through the courts!
