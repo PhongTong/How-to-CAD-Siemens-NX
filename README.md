@@ -202,6 +202,24 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A HEAD Paddle Tennis racket_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%204/Great%20Pokeball.png" width="500"> 
+
+**Figure:** _(In-person Session 4) An [Great Ball](https://bulbapedia.bulbagarden.net/wiki/Great_Ball) Pokéball_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%204/Tennis%20Ball.png" width="500"> 
+
+**Figure:** _(In-person Session 4) A Penn 1 Tennis Ball_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%204/Apple.png" width="500"> 
+
+**Figure:** _(In-person Session 4) An attempt at a 3D apple_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
