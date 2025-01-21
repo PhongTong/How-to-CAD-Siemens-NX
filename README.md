@@ -306,6 +306,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _Engineering Drawing of the LEGO Airplane - General Dimensions_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%205/LEGO%20Minifig.png" width="500"> 
+
+**Figure:** _(In-person Session 5) A LEGO Minifig Head with its Astronaut Helment_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%205/LEGO%20Biplane%20Model.png" width="500"> 
+
+**Figure:** _(In-person Session 5) A LEGO Biplane Model_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
