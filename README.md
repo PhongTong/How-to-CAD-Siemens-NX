@@ -272,7 +272,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** 
 * Asynchronous: https://www.youtube.com/watch?v=p4DvSi1wqJs.
-* In-person: To be posted.
+* In-person: https://www.youtube.com/watch?v=OQA5Y2HWD6U.
 
 **Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%205) folder.
 
