@@ -125,6 +125,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _(In-person Session 2) A 1976 Argentine Peso model_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%202/Snorlax%20Shiny%20Model.png" width="500"> 
+
+**Figure:** _(BONUS CAD) A [Snorlax Paldean Fates](https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/sv4pt5/202/) Shiny Card_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
