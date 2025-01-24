@@ -388,7 +388,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ([ back to top ](#back_to_top))
 
-## Enrollment Statistics
+## Pictures/Hall of Fame
 
 Here are some pictures from the IAP 2025 workshop!
 
