@@ -374,6 +374,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _Track Layout with the sample Locomotive/Coal Wagon/Passenger Wagon assembly_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%206/Starbucks%20Mug.png" width="500"> 
+
+**Figure:** _(In-person Session 6) A Mug with multiple dimension configurations_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Session%206/Simple%20Train%20Set.png" width="500"> 
+
+**Figure:** _(In-person Session 6) A simple train set with tracks_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ## Enrollment Statistics
