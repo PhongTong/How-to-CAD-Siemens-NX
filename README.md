@@ -98,6 +98,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Recordings:** 
 * Asynchronous: https://www.youtube.com/watch?v=i5wfB-FThsY.
 * In-person: https://www.youtube.com/watch?v=ijoa3cTBXkE.
+* BONUS (CADding a Snorlax Pokémon Card): https://www.youtube.com/watch?v=9b5ewPgwkCU.
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%202) folder.
 
@@ -401,7 +402,7 @@ Here are some pictures from the IAP 2025 workshop!
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Siemens-NX/blob/main/Session%20Files/Mis/Final%20Class.jpg" width="500"> 
 
-**Figure:** _How it dened: January 23_!
+**Figure:** _How it ended: January 23_!
 </p>
 
 ([ back to top ](#back_to_top))
