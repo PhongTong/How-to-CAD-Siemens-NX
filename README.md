@@ -6,7 +6,7 @@ Welcome to How to CAD Almost Anything! Siemens NX edition. In this repository, y
 
 Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a paddle tennis racket, an MIT tech dinghy sailboat, or a LEGO airplane? What about designing a Chinese pagoda? A banana? In this fun MIT IAP 2025 workshop, you will learn the skills to design all of these, and much more! 
 
-Split into 6 2-hour long sessions, the first half of each session will be spent learning new Siemens NX skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. 
+Split into 6 2-hour long sessions, the first half of each session will be spent learning new Siemens [NX](https://plm.sw.siemens.com/en-US/nx/) skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. 
 
 _This course is a sibling version of the original ["How to CAD Almost Anything"](https://github.com/andyeske/How-to-CAD-Almost-Anything) course, adapted into 6, 2-hour long sessions. This course is intended for both existing Solidworks (or other CAD software) users looking to learn a new CAD software, as well as new users trying to learn how to CAD)_.
 
@@ -21,6 +21,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Prerequisites:** Willingness to have fun and think outside the box!
 
 **Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files) folder.
+
+**Software:** Siemens [NX](https://plm.sw.siemens.com/en-US/nx/). NX is available [free of charge](https://plm.sw.siemens.com/en-US/nx/student-software/) to students and educators.
 
 ## Schedule
 
